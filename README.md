@@ -3,6 +3,6 @@
 -->
 
 - 💬 Ask me anything!
-- 📫 How to reach me: chandra.jonathan@gmail.com
+- 📫 How to reach me: For any inquiries, please email chandra.jonathan@gmail.com and I will do my best to get back to you within 48 hours.
 - 😄 Pronouns: he, him, his
 
