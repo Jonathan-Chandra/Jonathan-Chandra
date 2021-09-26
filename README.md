@@ -9,3 +9,7 @@
 ## Projects:
  - [My 3D Printer](https://github.com/Jonathan-Chandra/3DPrinter)
  - [Educational Materials](https://github.com/Jonathan-Chandra/help-me) used to help others
+
+## Languages:
+
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Chandra)](https://github.com/anuraghazra/github-readme-stats)
