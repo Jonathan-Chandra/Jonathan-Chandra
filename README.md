@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Projects:
  - [My 3D Printer](https://github.com/Jonathan-Chandra/3DPrinter)
- - [Educational Materials used to helpt others](https://github.com/Jonathan-Chandra/help-me)
+ - [Educational Materials used to help others](https://github.com/Jonathan-Chandra/help-me)
 
 ## Languages:
 
